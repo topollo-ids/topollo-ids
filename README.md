@@ -7,17 +7,17 @@ smarter business decisions.
 
 ## Projects I've Worked On
 
-**[Cape Town Housing Market Analysis](link-to-repo)** — Co-developed 
+**[Cape Town Housing Market Analysis](https://github.com/topollo-ids/cape-town-airbnb-high-hosts)** — Co-developed 
 an XGBoost and Random Forest classifier to identify high-volume Airbnb 
 hosts contributing to Cape Town's housing crisis. Awarded highest mark 
 in the Honours class.
 
-**[Healthcare Resource Optimisation](link-to-repo)** — Used Linear 
+**[Healthcare Resource Optimisation](https://github.com/topollo-ids/hospital-operational-optimisation)** — Used Linear 
 Programming to determine the optimal procedural mix for a large-scale 
 health facility, independently modelling constraints to maximise 
 resource efficiency.
 
-**[Marathon Performance Analytics](link-to-repo)** — Built a Neural 
+**[Marathon Performance Analytics](https://github.com/topollo-ids/marathon-performance)** — Built a Neural 
 Network to predict runner dropout probability from fluid and carbohydrate 
 intake, with a reporting framework for optimal refuelling thresholds.
 
