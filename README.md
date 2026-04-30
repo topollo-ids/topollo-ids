@@ -2,7 +2,7 @@
 
 I'm an Honours student completing a Bachelor of Business Science 
 at the University of Cape Town, specialising in Statistics and 
-Data Science. I'm passionate about using data and AI to drive 
+Data Science. I'm passionate about using data to drive 
 smarter business decisions.
 
 ## Projects I've Worked On
