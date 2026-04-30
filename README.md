@@ -21,7 +21,7 @@ resource efficiency.
 Network to predict runner dropout probability from fluid and carbohydrate 
 intake, with a reporting framework for optimal refuelling thresholds.
 
-**[Extreme Value Modelling](link-to-repo)** — Modelled extremely rare 
+**[Extreme Value Modelling]([link-to-repo](https://github.com/topollo-ids/extreme-value-modelling))** — Modelled extremely rare 
 climate events using Cape Town's 2014–2024 data and extreme value 
 distributions.
 
